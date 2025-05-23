@@ -15,7 +15,9 @@ Este projeto implementa uma simulação interativa do clássico problema das **T
 - Terminal com suporte à saída padrão (console)
 
 ## Compilação
+1. Para instruções detalhadas sobre como configurar Mingw (necessario) e compilar código C++ no Visual Studio Code, consulte a documentação oficial:
 https://code.visualstudio.com/docs/languages/cpp
-```
+
+2. ```
 Inicie o main.exe
 ```
