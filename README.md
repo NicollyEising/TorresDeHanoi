@@ -22,7 +22,7 @@ https://code.visualstudio.com/docs/languages/cpp
 ```
 pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
 ```
-4 Adicione C:\msys64\ucrt64\bin ao PATH
+4. Adicione C:\msys64\ucrt64\bin ao PATH
 
 5. Inicie
  ```
