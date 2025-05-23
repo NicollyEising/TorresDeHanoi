@@ -17,8 +17,14 @@ Este projeto implementa uma simulação interativa do clássico problema das **T
 ## Compilação
 1. Para instruções detalhadas sobre como configurar Mingw (necessario) e compilar código C++ no Visual Studio Code, consulte a documentação oficial:
 https://code.visualstudio.com/docs/languages/cpp
+1.1 Instale MIngw https://www.msys2.org/
+1.2 Após instalar Mingw insira o comando:
+```
+pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
+```
+1.3 Adicione C:\msys64\ucrt64\bin ao PATH
 
-2. Inicie
+3. Inicie
  ```
 main.exe
 ```
