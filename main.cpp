@@ -76,7 +76,7 @@ int main() {
     int discos;
     char origem, destino;
 
-    cout << "Informe o número de discos: ";
+    cout << "Informe o numero de discos: ";
     cin >> discos;
 
     cout << "Informe a torre de origem (A, B ou C): ";
