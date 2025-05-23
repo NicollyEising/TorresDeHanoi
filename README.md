@@ -9,9 +9,6 @@ Este projeto implementa uma simulação interativa do clássico problema das **T
 - Entrada interativa do número de discos e das torres de origem e destino.
 - Validação básica das entradas fornecidas pelo usuário.
 
-## Requisitos
-
-- Mingw
 
 ## Compilação
 1. Para instruções detalhadas sobre como configurar Mingw (necessario) e compilar código C++ no Visual Studio Code, consulte a documentação oficial:
