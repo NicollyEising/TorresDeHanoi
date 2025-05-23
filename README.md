@@ -15,6 +15,7 @@ Este projeto implementa uma simulação interativa do clássico problema das **T
 - Terminal com suporte à saída padrão (console)
 
 ## Compilação
+https://code.visualstudio.com/docs/languages/cpp
 ```
 Inicie o main.exe
 ```
