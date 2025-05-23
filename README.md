@@ -11,8 +11,7 @@ Este projeto implementa uma simulação interativa do clássico problema das **T
 
 ## Requisitos
 
-- Compilador C++ (por exemplo, `g++`)
-- Terminal com suporte à saída padrão (console)
+- Mingw
 
 ## Compilação
 1. Para instruções detalhadas sobre como configurar Mingw (necessario) e compilar código C++ no Visual Studio Code, consulte a documentação oficial:
