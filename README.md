@@ -15,5 +15,6 @@ Este projeto implementa uma simulação interativa do clássico problema das **T
 - Terminal com suporte à saída padrão (console)
 
 ## Compilação
-
+```
 Inicie o main.exe
+```
