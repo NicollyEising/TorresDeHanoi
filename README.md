@@ -2,6 +2,9 @@
 
 Este projeto implementa uma simulação interativa do clássico problema das **Torres de Hanoi**, utilizando a linguagem C++. O algoritmo mostra passo a passo a movimentação dos discos entre as torres, com visualização gráfica simplificada no terminal.
 
+# Participantes
+Nicolly Munhoz Eising e Nahuel Isaias Ayala Molinas
+
 ## Funcionalidades
 
 - Simulação do algoritmo recursivo para resolver as Torres de Hanoi.
